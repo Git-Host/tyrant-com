@@ -1,0 +1,2 @@
+# tyrant-com
+com
